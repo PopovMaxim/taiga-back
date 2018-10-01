@@ -13,7 +13,7 @@
 ### Misc
 
 - Refactor attachment url's in timeline
-- Avoid receive feedkback in private projects from non-members
+- Avoid receive feedback in private projects from non-members
 - Allow delete reports uuid's
 - Small fixes
 
